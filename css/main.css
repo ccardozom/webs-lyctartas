@@ -1,0 +1,19 @@
+:root {
+    --theme_color: white;
+    --primary_color: #124f88;
+    --secundary_color: #f7c331;
+    --text_color: black;
+    --text_color_inverse: white;
+    --navbar_shallow_color: #e5e5e5;
+    --menu_mobile_background_color: #FF95DD;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--theme_color);
+    color: var(--text_color);
+}
+
+a {
+    text-decoration: none;
+}
